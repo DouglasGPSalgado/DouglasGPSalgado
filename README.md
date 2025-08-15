@@ -15,5 +15,3 @@
   <img align="center" alt="Doug-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="left" alt="Doug-Cat" height="180" width="220" src="https://libertyinfinity.com/wp-content/uploads//2016/02/black-cat-anime-animated-gif.gif">
 </div>
-
-![snake gif](https://github.com/DouglasGPSalgado/DouglasGPSalgado/blob/output/github-contribution-grid-snake.svg)
