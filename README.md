@@ -22,4 +22,4 @@ Passo a maior parte do meu tempo estudando para me tornar um desenvolvedor cada 
   <img align="right" alt="Doug-Cat" height="200" width="240" src="https://libertyinfinity.com/wp-content/uploads//2016/02/black-cat-anime-animated-gif.gif">
 </div>
 
-![snake gif](https://github.com/DouglasGPSalgado/DouglasGPSalgado/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/DouglasGPSalgado/DouglasGPSalgado/blob/output/github-contribution-grid-snake-grey.svg)
